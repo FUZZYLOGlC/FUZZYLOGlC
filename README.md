@@ -1,6 +1,13 @@
-- 👋 Hi, I’m @FUZZYLOGlC
-- 👀 I’m interested in cybersecurity and web development
-- 🌱 I’m currently learning java, css & php
-- 💞️ I’m looking to collaborate on nothing yet! I'm  a bit too new to this.
+- Hi, I’m @FUZZYLOGlC
+- I’m interested in cybersecurity and web development, I discovered my interest in programming through the petz5 modding scene.
+- I’m currently learning java, css & php at Kvinnofolkhögskolan in Sweden!
 
+
+
+
+　　　　　　　　　　　　　　⊂⊃
+　　　　　　　　　　　　　∧＿∧ 　
+　　　　　　　　　　　　（　 ´∀｀）
+　　　　　　　　　　　　 | Ｊ　　Ｊ
+　　　　　　　　　　　  ∠＿＿ノ　
 
